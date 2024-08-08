@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Product Management</string>
+    <string name="view_products">View Products</string>
+    <string name="something_went_wrong_please_try_again">Something went wrong. Please try again.</string>
+    <string name="product_image">Product Image</string>
+    <string name="details">Details</string>
+    <string name="sku">SKU:</string>
+    <string name="dimensions">Dimensions:</string>
+    <string name="warranty">Warranty:</string>
+    <string name="shipping">Shipping:</string>
+    <string name="availability">Availability:</string>
+    <string name="return_policy">Return Policy:</string>
+    <string name="user_reviews">User Reviews</string>
+    <string name="product_description">Product Description</string>
+    <string name="product_title">Product Title</string>
+    <string name="title">Title</string>
+</resources>
